@@ -9,6 +9,4 @@
 <img src="https://mdbootstrap.com/img/Marketing/articles/vue-laravel.jpg" width=100px height=50px>
 
 ## API Development
-<img src="https://i.stack.imgur.com/XtpTm.png" width=50px height=50px>
-<img src="https://cdn.syncfusion.com/boldbi/integration/v3/datasources/chargebee.png" width=100px height=50px>
-<img src="https://www.freshbooks.com/wp-content/uploads/2018/12/AC_logo_300-5.png" width=100px height=50px>
+<img src="https://i.stack.imgur.com/XtpTm.png" width=50px height=50px><img src="https://cdn.syncfusion.com/boldbi/integration/v3/datasources/chargebee.png" width=100px height=60px><img src="https://www.freshbooks.com/wp-content/uploads/2018/12/AC_logo_300-5.png" width=100px height=50px>
