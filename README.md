@@ -7,4 +7,4 @@
 
 
 ## Full Stack
-<img src="https://mdbootstrap.com/img/Marketing/articles/vue-laravel.jpg" width=50px height=50px>
+<img src="https://mdbootstrap.com/img/Marketing/articles/vue-laravel.jpg" width=100px height=50px>
