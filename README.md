@@ -5,6 +5,10 @@
 ## Back-end
 <img src="https://camo.githubusercontent.com/f5398b1e6163bb240ecf25a8e0dbb05a161b87c3/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e64394763536a58354b625839564254665579426a30696f31676b586b424658516532664b4b59587726757371703d434155" width=50px height=50px><img src="https://pngimage.net/wp-content/uploads/2018/06/laravel-icon-png-6.png" width=50px height=50px><img src="https://geeksperhour.com/wp-content/uploads/2019/07/shopify-expert-green.png" width=50px height=50px><img src="http://www.codewhiz.com.au/wp-content/uploads/2017/02/Wordpress.png" width=50px height=50px><img src="https://www.drupal.org/files/styles/grid-3/public/drupal_5.png?itok=F_fK9Rsy" width=50px height=50px>
 
-
 ## Full Stack
 <img src="https://mdbootstrap.com/img/Marketing/articles/vue-laravel.jpg" width=100px height=50px>
+
+## API Development
+<img src="https://i.stack.imgur.com/XtpTm.png" width=50px height=50px>
+<img src="https://www.pngfind.com/pngs/m/667-6673136_file-chargebee-logo-chargebee-logo-hd-png-download.png" width=50px height=50px>
+<img src="https://www.freshbooks.com/wp-content/uploads/2018/12/AC_logo_300-5.png" width=100px height=50px>
