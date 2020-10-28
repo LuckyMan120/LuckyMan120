@@ -1,4 +1,10 @@
 # Thanks for visiting my Git! 👋
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 ## Front-end
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width=50px height=50px><img src="https://www.datocms-assets.com/205/1583850012-nuxt-square.svg" width=50px height=50px><img src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667" width=50px height=50px>
 
