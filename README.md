@@ -1,6 +1,6 @@
 # Thanks for visiting my Git! 👋
 
-| Syntax      | Description |
+| ## Front-end      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
