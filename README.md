@@ -3,7 +3,7 @@
 
 ## Welcome
 
-![LuckyMan120's github stats](https://github-readme-stats.vercel.app/api?username=LuckyMan120&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=radical)
+![LuckyMan120's github stats](https://github-readme-stats.vercel.app/api?username=LuckyMan120&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=synthwave)
 ![LuckyMan120's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMan120&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true&theme=radical&show_icons=true)
 
 ### Highlights
