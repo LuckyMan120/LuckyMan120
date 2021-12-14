@@ -48,6 +48,8 @@
 
 
 ## Senior Full Stack / Blockchain Engineer
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 * I am an entrepreneurial software engineer heavily focusing on web development as a Full-stack.
 * My focus is to help clients with their business by fixing and creating projects of value.
 * I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
